@@ -1,21 +1,16 @@
-# hey, i'm usukh 👋
+# hey there 👋
 
-just a college student who enjoys coding and building things.
+I'm Usukh, a college student studying data science.
+I enjoy coding and building small things that come to mind.
+If I get curious about something, I usually try to understand it deeply.
 
-currently studying data science, exploring software development and ai automation.
+Right now I'm exploring software development, machine learning, and AI automation.
+I’m not trying to be an expert yet — just learning, improving, and building step by step.
 
-## what i'm learning
+### A few things about me:
+- I like solving problems quietly
+- I prefer simple and clean solutions
+- I enjoy understanding how systems actually work
+- Still learning every day
 
-- data science fundamentals  
-- machine learning  
-- distributed systems (hadoop / spark)  
-- backend development  
-
-## what i like
-
-- solving problems  
-- understanding how systems work  
-- building small tools that make life easier  
-- improving a little every day  
-
-still learning. still building. 🚀
+Thanks for visiting :)
