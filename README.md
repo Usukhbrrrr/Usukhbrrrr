@@ -1,4 +1,4 @@
-# hey there 👋
+## hey there 👋
 
 I'm Usukh, a college student studying data science.
 I enjoy coding and building small things that come to mind.
