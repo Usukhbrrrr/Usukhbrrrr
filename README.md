@@ -1,52 +1,21 @@
-# Hi, I'm Usukh 👋
+# hey, i'm usukh 👋
 
-I am a Data Science student focused on Software Development and AI Automation.
+just a college student who enjoys coding and building things.
 
----
+currently studying data science, exploring software development and ai automation.
 
-## 🎯 Focus Areas
+## what i'm learning
 
-- Data Science
-- Software Engineering
-- AI & Automation
-- Distributed Data Processing
+- data science fundamentals  
+- machine learning  
+- distributed systems (hadoop / spark)  
+- backend development  
 
----
+## what i like
 
-## 🛠 Tech Stack
+- solving problems  
+- understanding how systems work  
+- building small tools that make life easier  
+- improving a little every day  
 
-### Languages
-- Python
-- Java
-- C
-- JavaScript
-- SQL
-
-### Tools & Technologies
-- Hadoop
-- Apache Spark
-- Machine Learning techniques
-- Git & GitHub
-- Linux / Ubuntu
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Scalable Data Systems
-- Backend Architecture
-- Automation Systems
-
----
-
-## 🎯 Goals
-
-- Build scalable software systems  
-- Develop strong foundations in AI and data engineering  
-- Master distributed computing frameworks  
-- Contribute to meaningful real-world projects  
-
----
-
-Focused on continuous improvement and practical skill development.
+still learning. still building. 🚀
